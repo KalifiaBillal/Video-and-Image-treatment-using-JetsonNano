@@ -1,5 +1,5 @@
 # awesome-jetson-nano [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome Nvidia Jetson Nano projects and resources.
+This project is all about analysing images and videos using Nvidia jetson Nano
 
 ![](https://www.nvidia.com/content/dam/en-zz/Solutions/intelligent-machines/jetson-nano/nvidia-jetson-nano-developer-kit-2c50-d.png)
 
