@@ -5,7 +5,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/kalifiabillal?color=yellow&label=kalifiabillal&style=for-the-badge">   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kalifiabillal/Android-Arduino-Automotive?style=for-the-badge">   <img alt="Visual Studio App Center (Minimum) OS Version" src="https://img.shields.io/visual-studio-app-center/releases/osver/kalifiabillal/Android-Arduino-Automotive/a87b9e745655355612fff4418953e0c3f7074250?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kalifiabillal/Android-Arduino-Automotive?color=green&style=for-the-badge">   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/kalifiabillal/Android-Arduino-Automotive?style=for-the-badge">
 
 
-* [Official Hardware Guide]()
+## Official Hardware Guide
 
 | Item  | Description  | Price  |
 |---|---|---|
@@ -24,10 +24,8 @@
 ## Forums
 * [Official Nvidia Forum](https://devtalk.nvidia.com/default/board/371/)
 
-
 ## Common errors
 * [hangs on unnatended uppgr](https://forums.developer.nvidia.com/t/hangs-at-first-boot-at-waiting-for-unattended-upgr-to-exit/72686)
-
 
 ## How to setup you Jetson Nano
 * [Getting Started with the NVIDIA Jetson Nano Developer Kit](https://blog.hackster.io/getting-started-with-the-nvidia-jetson-nano-developer-kit-43aa7c298797): A great tutorial to perform the initial setup of your Jetson Nano. This could save a lot of your time for the initial setup.
@@ -44,11 +42,9 @@
 
 ## Jetson Nano case 3d models
 * [Jetson Nano Case](https://www.thingiverse.com/thing:3603594): A great case by Enrique Coiras. [Without antennas](https://www.thingiverse.com/thing:3518410)
-
 ![](https://cdn.thingiverse.com/renders/a5/00/69/3f/ee/a8579806d3b3eb1dc5d5bbd876e14171_preview_featured.jpg)
 
 ## Software Development USEFUL!
-
 * [Visual studio Code](https://www.jetsonhacks.com/2019/10/01/jetson-nano-visual-studio-code-python/)
 * [Tutorial](https://havedatawilltrain.com/got-nano-will-code/)
 
@@ -64,14 +60,3 @@
 ## ROS install
 * [Jetson Easy Configurator](https://github.com/rbonghi/jetson_easy)
 * [JetBot ROS](https://github.com/dusty-nv/jetbot_ros)
-
-## Youtube Channels
-* [JetsonHacks](https://www.youtube.com/channel/UCQs0lwV6E4p7LQaGJ6fgy5Q)
-* [Zack's Lab](https://www.youtube.com/watch?v=U3VJCSDqdG4)
-
-## Github projects
-* [Official JetBot](https://github.com/NVIDIA-AI-IOT/jetbot)
-* [Jetson Nano Object Detection and Tracking](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking)
-
-
-
