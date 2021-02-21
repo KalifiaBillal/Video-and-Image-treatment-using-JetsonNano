@@ -2,6 +2,8 @@
 
 # Nvidia Jetson in Space
 
+A new generation of UAVs based on Artificial intelligence powered by the Nvidia Jetson modules. This project is the first step to a new generation of smart Picosats.
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/kalifiabillal?color=yellow&label=kalifiabillal&style=for-the-badge">   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kalifiabillal/Android-Arduino-Automotive?style=for-the-badge">   <img alt="Visual Studio App Center (Minimum) OS Version" src="https://img.shields.io/visual-studio-app-center/releases/osver/kalifiabillal/Android-Arduino-Automotive/a87b9e745655355612fff4418953e0c3f7074250?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kalifiabillal/Android-Arduino-Automotive?color=green&style=for-the-badge">   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/kalifiabillal/Android-Arduino-Automotive?style=for-the-badge">
 
 
@@ -39,10 +41,6 @@
 
 ## GPIO Jetson
 * [Jetson NVIDIA GPIO](https://github.com/NVIDIA/jetson-gpio)
-
-## Jetson Nano case 3d models
-* [Jetson Nano Case](https://www.thingiverse.com/thing:3603594): A great case by Enrique Coiras. [Without antennas](https://www.thingiverse.com/thing:3518410)
-![](https://cdn.thingiverse.com/renders/a5/00/69/3f/ee/a8579806d3b3eb1dc5d5bbd876e14171_preview_featured.jpg)
 
 ## Software Development USEFUL!
 * [Visual studio Code](https://www.jetsonhacks.com/2019/10/01/jetson-nano-visual-studio-code-python/)
