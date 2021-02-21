@@ -1,9 +1,9 @@
-# awesome-jetson-nano [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-This project is all about analysing images and videos using Nvidia jetson Nano
+![](https://raw.githubusercontent.com/KalifiaBillal/Nvidia-Jetson-in-Space/main/img/image.png)
 
-![](https://www.nvidia.com/content/dam/en-zz/Solutions/intelligent-machines/jetson-nano/nvidia-jetson-nano-developer-kit-2c50-d.png)
+# Nvidia Jetson in Space
 
-## Needed hardware
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/kalifiabillal?color=yellow&label=kalifiabillal&style=for-the-badge">   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kalifiabillal/Android-Arduino-Automotive?style=for-the-badge">   <img alt="Visual Studio App Center (Minimum) OS Version" src="https://img.shields.io/visual-studio-app-center/releases/osver/kalifiabillal/Android-Arduino-Automotive/a87b9e745655355612fff4418953e0c3f7074250?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kalifiabillal/Android-Arduino-Automotive?color=green&style=for-the-badge">   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/kalifiabillal/Android-Arduino-Automotive?style=for-the-badge">   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Kalifiabillal/Android-Arduino-Automotive?color=pink&logo=pink&style=for-the-badge">
+
 
 * [Official Hardware Guide]()
 
