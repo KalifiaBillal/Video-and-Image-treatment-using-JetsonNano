@@ -23,6 +23,15 @@ A new generation of UAVs based on Artificial intelligence powered by the Nvidia 
 
 (*) Basic Required
 
+## Github Branches Explained
+
+| Branch  | Description  | Status  |
+|---|---|---|
+| Main branch  |  All general docs and tutorials concerning the Jetson modules   | Active |
+| HAB branch |  High-altitude balloon  | Active |
+| CanSat branch| CanSat is a simulation of a real satellite, integrated within the volume and shape of a soft drink can. The challenge for the students is to fit all the major subsystems found in a satellite, such as power, sensors and a communication system, into this minimal volume.  | Not Active |
+| CubeSat branch |  A CubeSat (U-class spacecraft) is a type of miniaturized satellite for space research that is made up of multiple cubic modules of 10 cm × 10 cm × 10 cm size. | Not Active |
+
 ## Forums
 * [Official Nvidia Forum](https://devtalk.nvidia.com/default/board/371/)
 
