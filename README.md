@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/KalifiaBillal/Nvidia-Jetson-in-Space/main/img/image.png)
+![](https://raw.githubusercontent.com/KalifiaBillal/Nvidia-Jetson-in-Space/main/img/nn.jpeg)
 
 # Nvidia Jetson in Space
 
